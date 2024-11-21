@@ -71,12 +71,44 @@ let authority = true;
 let artificial = true; 
 let education = false; 
 let skill = true; 
+let eatfood = false;
+let manner = false;
+let 2 > 3 = false;
+let eggeatables = false;
+let 3 < 5 = true; 
+let hasJob = true;
+let isRich = false;
+let enjoysTraveling = true;
+let isGamer = true;
+let lovesBooks = true;
+let isVegetarian = false;
+let drinksCoffee = true;
+let hasSmartphone = true;
+let isHealthy = false;
+let lovesNature = true;
+let isCold = false;
+let ownsLaptop = true;
+let likesDogs = true;
+let likesCats = false;
+let isBored = false;
+let enjoysSports = true;
+let isSingle = true;
+let hasChildren = false;
+let isMorningPerson = true;
+let speaksFrench = false;
+let isCreative = true;
+let isOutgoing = false;
+let lovesScience = true;
+let isIntrovert = false;
+let likesMovies = true;
+
+
 
 
 500 words on Big Data 
 Big Data refers to the massive volume of structured, semi-structured, and unstructured data generated every second by people, organizations, and machines. It is characterized by the three Vs: Volume, Velocity, and Variety. Volume denotes the vast amounts of data collected, velocity refers to the speed at which data is generated and processed, and variety highlights the diverse formats of data—text, images, videos, and more. Some experts also include Veracity (data reliability) and Value (actionable insights) as additional dimensions.
 
 Origins and Growth of Big Data
-The concept of Big Data emerged with the rise of digital technologies and the internet, which enabled the creation and collection of unprecedented amounts of information. Social media, IoT devices, online transactions, sensors, and mobile devices contribute significantly to the growing data pool. Companies like Google, Amazon, and Facebook were pioneers in using Big Data to refine their operations and personalize user experiences.
+The concept of Big Data emerged with the rise of digital technologies and the internet, which enabled the creation and collection of unprecedented amounts of information. Social media, online transactions, sensors, and mobile devices contribute significantly to the growing data pool. Companies like Google, Amazon, and Facebook were pioneers in using Big Data to refine their operations and personalize user experiences.
 
 The advent of cloud computing, powerful data storage systems, and distributed processing frameworks like Hadoop and Spark has accelerated Big Data's adoption across industries. According to estimates, the global data volume is expected to surpass 180 zettabytes by 2025, making Big Data analytics an essential tool for decision-making.
