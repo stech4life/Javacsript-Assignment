@@ -112,3 +112,14 @@ Origins and Growth of Big Data
 The concept of Big Data emerged with the rise of digital technologies and the internet, which enabled the creation and collection of unprecedented amounts of information. Social media, online transactions, sensors, and mobile devices contribute significantly to the growing data pool. Companies like Google, Amazon, and Facebook were pioneers in using Big Data to refine their operations and personalize user experiences.
 
 The advent of cloud computing, powerful data storage systems, and distributed processing frameworks like Hadoop and Spark has accelerated Big Data's adoption across industries. According to estimates, the global data volume is expected to surpass 180 zettabytes by 2025, making Big Data analytics an essential tool for decision-making.
+
+Characteristics of Big Data
+1. Volume: The scale of data is enormous. For example, social media platforms like Facebook generate terabytes of user data daily, while IoT devices continuously produce sensor data at an even larger scale. By 2025, global data is expected to exceed 180 zettabytes.
+
+2. Velocity: The speed at which data is generated and needs to be processed is staggering. Real-time data from sources such as stock market transactions, weather sensors, or video streaming platforms must be handled without delay.
+
+3. Variety: Data comes in multiple formats: structured data (databases), semi-structured data (JSON, XML), and unstructured data (text, images, videos).
+
+Some experts add Veracity (data quality and reliability) and Value (actionable insights) as additional defining traits.
+
+
